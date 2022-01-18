@@ -1,2 +1,15 @@
-# dq_data_engineer
-This repository contains all of the projects completed as part of Dataquest's Data Engineering path. 
+# Dataquest projects from the Data Engineer path
+This repository mentions all of the projects completed as part of Dataquest's Data Engineering path. 
+* [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/anapsilvestrinf/android_and_ios_apps)
+* [Analysis of Hacker News Posts](https://github.com/anapsilvestrinf/hacker_news_analysis)
+* [Building Fast Queries on a CSV](https://github.com/anapsilvestrinf/fast_queries)
+* [Analysing CIA Factbook Data Using SQL](https://github.com/anapsilvestrinf/CIA_factbook_analysis)
+* [Answering Business Questions using SQL](https://github.com/anapsilvestrinf/business_sql)
+* [Building a database for crime reports](https://github.com/anapsilvestrinf/crimes_db)
+* [Practice Optimizing DataFrames and Processing in Chunks](https://github.com/anapsilvestrinf/optimize_loans)
+* [Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/anapsilvestrinf/crunchbase_db)
+* [Analyzing Wikipedia Pages](https://github.com/anapsilvestrinf/wikipedia_analysis)
+* [Analyzing Stock Prices](https://github.com/anapsilvestrinf/stock_prices_analysis)
+* [Evaluating Numerical Expressions](https://github.com/anapsilvestrinf/eval_expression)
+* [Implementing a Key-Value Database](https://github.com/anapsilvestrinf/kv_db)
+* [Hacker News Pipeline](https://github.com/anapsilvestrinf/hn_pipeline)
